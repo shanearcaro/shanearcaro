@@ -18,11 +18,15 @@
 ---
 #### :zap: Github Stats
 
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shanemichaelarcaro&show_icons=true&hide_border=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
----
-### :zap: Languages Programmed
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanemichaelarcaro&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=shanemichaelarcaro&show_icons=true&hide_border=true&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanemichaelarcaro&theme=dracula" />
+</a>
+
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shanemichaelarcaro&repo=pyyoutube&theme=dracula" />
