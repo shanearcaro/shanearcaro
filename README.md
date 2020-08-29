@@ -19,17 +19,6 @@
 ---
 ### :zap: Languages Programmed
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanemichaelarcaro&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
----
-
-[//]: # ### :zap: Top Repositories
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shanemichaelarcaro&repo=flappy-bird&theme=dracula" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shanemichaelarcaro&repo=hangman&theme=dracula" />
-</a>
-
-
 
 [twitter]: https://twitter.com/shanearcaro
 [instagram]: https://www.instagram.com/shanearcaro
