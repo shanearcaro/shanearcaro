@@ -22,7 +22,7 @@
 ---
 ### :zap: Top Repositories
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shanemichaelarcaro&repo=pyyoutube&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shanemichaelarcaro&repo=flappy-bird&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=shanemichaelarcaro&repo=hangman&theme=dracula" />
