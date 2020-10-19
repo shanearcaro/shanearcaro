@@ -1,12 +1,10 @@
 ### Welcome to my GitHub Page
 
 ## I'm Shane Arcaro, a Sophomore at the New Jersey Institute of Technology
-- 🕶 I have been programming for 6+ years now
-- ☕ I programmed in Java for about 4 years
-- 🐍 I programmed in Python for about 1 year
-- 🕵 I'm currently learning JavaScript and Node.js
-- 🎓 I'm always looking for fun projects to keep me busy
-- :zap: Fun Fact :zap: I am the Webmaster for my school's Entrepreneurship Club
+- 🕶 Imagine programming in a language that uses pointers
+- ☕ C++ is pretty cool
+- 🎓 Lexical analyzers are boring
+- :zap: Webmaster for the Entrepreneurship Society
 
 ### Connect with Me:
 
