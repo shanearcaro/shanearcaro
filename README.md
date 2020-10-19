@@ -13,7 +13,7 @@
 [<img align="center" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="center" alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 ---
-#### :zap: Github Stats
+### :zap: Github Stats
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shanemichaelarcaro&show_icons=true&hide_border=true&include_all_commits=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ### :zap: Languages Programmed
