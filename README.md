@@ -1,10 +1,9 @@
 ### Welcome to my GitHub Page
 
 ## I'm Shane Arcaro a Sophomore at New Jersey Institute of Technology
-- 🕶 Imagine programming in a language that uses pointers
-- ☕ C++ is pretty cool
-- 🎓 Lexical analyzers are boring
-- 🖥️ Linux > Windows
+- :desktop_computer: Operating System: Pop OS
+- :coffee: First Laguage: Java
+- :mortar_board: Favorite Language: C++ or Javascript
 - :zap: Webmaster for the Entrepreneurship Society
 
 ### Connect with Me:
