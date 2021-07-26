@@ -1,7 +1,7 @@
 ### Welcome to my GitHub Page
 
-## I'm Shane Arcaro a Sophomore at New Jersey Institute of Technology
-- :desktop_computer: Operating System: Pop OS
+## I'm Shane Arcaro a Junior at New Jersey Institute of Technology
+- :desktop_computer: Operating System: Ubuntu
 - :coffee: First Laguage: Java
 - :mortar_board: Favorite Language: C++ or Javascript
 - :zap: Webmaster for the Entrepreneurship Society
