@@ -1,3 +1,3 @@
-### Welcome to my GitHub Page
+<h1 align="center">Welcome to my GitHub Page</h1>
 
-## I'm Shane Arcaro a Full-stack developer @ Colgate-Palmolive
+<h2 align="center">I'm Shane Arcaro a Full-stack developer @ Colgate-Palmolive</h2>
